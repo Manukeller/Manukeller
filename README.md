@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo Algoritmos e Programação Web. 
 - 💞️ Procuro colaborar com a minha formação acadêmica para ter uma boa colocação profissional.
 - 📫 Meus contatos estão na bio.
-- 😄 Manu
+- 😄 Manu.
 - ⚡ Sou observadora.
 
 <!---
