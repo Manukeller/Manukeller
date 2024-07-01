@@ -1,5 +1,5 @@
 - 👋 Olá, sou @Manukeller
-- 👀 Estou Interessado em conseguir um emprego
+- 👀 Estou à procura da minha primeira colocação profissional
 - 🌱 Estou aprendendo Algoritmos e Programação Web. 
 - 💞️ Procuro colaborar com a minha formação acadêmica para ter uma boa colocação profissional.
 - 📫 Meus contatos estão na bio.
